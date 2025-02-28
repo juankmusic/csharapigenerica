@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "AcEtPfdWQC+Atdathlsp44sByTWFEdoP/eSuH4+lM4ei5Ol0GBqAxJS3u2kbVreK7mY847/7elHJn7rPdv3ObQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FAMILIA RUIZ GARAY\\OneDrive\\Escritorio\\Proyectos\\csharapigenerica\\csharapigenerica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FAMILIA RUIZ GARAY\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.1\\microsoft.aspnetcore.openapi.8.0.1.nupkg.sha512",
+    "C:\\Users\\FAMILIA RUIZ GARAY\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\FAMILIA RUIZ GARAY\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\FAMILIA RUIZ GARAY\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\FAMILIA RUIZ GARAY\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\FAMILIA RUIZ GARAY\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\FAMILIA RUIZ GARAY\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
